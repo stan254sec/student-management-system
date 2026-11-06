@@ -1,0 +1,9 @@
+﻿# Uploaded student photos (keep the folder)
+uploads/*
+!uploads/.gitkeep
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
